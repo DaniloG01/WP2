@@ -1,0 +1,42 @@
+body {
+  background-color:hsla(89, 43%, 51%, 0.5);
+  background-color:black;
+  background-image: url("resursi/1.jpg");
+  background-size:500px;
+  background-position:top-left;
+  background-repeat:no-repeat;
+  background-origin: border-box;
+  background-clip:inherit;
+  background-attachment:fixed;
+  color:hotpink;
+}
+
+h2 {
+  background-color:lightpink;
+  color:white;
+}
+
+
+p {
+  border-color:cornsilk;
+  color:saddlebrown;
+  border-radius:10px;
+  margin:5px;
+  padding:5px;
+  width:300px;
+  background:lightpink;
+  max-width:1200px;
+  outline-style:double;
+  outline-width:5px;
+  outline-color:green;
+}
+
+h1 {
+  color:cornsilk;
+  background-color:rgb(231, 220, 61);
+  border:2px solid cornsilk;
+  border-radius:10px;
+  margin:auto;
+  padding:5px;
+}
+
